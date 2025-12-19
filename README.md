@@ -69,10 +69,9 @@ tests/
 ├── unit_test_blackjack_helper.py
 ├── integration_test_helper.py
 ├── integration_test_blackjack.py
+```
 
 ---
-
-```
 
 ## Tech Stack
 
@@ -82,24 +81,6 @@ tests/
   - Modular design
   - Control flow and game state management
   - Unit and integration testing
-
----
-
-## Running the Game
-
-```bash
-python src/blackjack.py
-```
-
----
-
-## Testing
-
-Unit and integration tests are included to verify game logic and outcomes.
-
-```bash
-pytest
-```
 
 ---
 
