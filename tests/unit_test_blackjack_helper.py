@@ -1,4 +1,4 @@
-from blackjack_helper import *
+from src.blackjack_helper import *
 from unit_test_helper import *
 import unittest
 
