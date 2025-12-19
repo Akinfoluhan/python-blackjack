@@ -6,7 +6,7 @@ This project is a Python implementation of Blackjack, a classic card game where 
 
 The game simulates a standard round of Blackjack with one player and a dealer. The player chooses whether to hit (draw another card) or stand (end their turn), while the dealer follows a fixed rule set. Final outcomes are determined by comparing the player’s hand against the dealer’s hand.
 
-## The project emphasizes modular design, clear game logic, and testable components.
+The project emphasizes modular design, clear game logic, and testable components.
 
 ## Game Rules
 
@@ -107,3 +107,11 @@ pytest
 - Betting system and chip tracking
 - Graphical user interface
 - Improved input validation
+
+````md
+Hello my name is Akin
+
+```md
+
+```
+````
