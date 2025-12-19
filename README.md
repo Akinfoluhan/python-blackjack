@@ -54,6 +54,7 @@ At the end of the round, the player receives one of the following outcomes:
 
 ## Project Structure
 
+`````md
 src/
 ├── blackjack.py
 ├── blackjack_helper.py
@@ -71,6 +72,7 @@ tests/
 
 ---
 
+````md
 ## Tech Stack
 
 - Language: Python
@@ -107,11 +109,5 @@ pytest
 - Betting system and chip tracking
 - Graphical user interface
 - Improved input validation
-
-````md
-Hello my name is Akin
-
-```md
-
-```
 ````
+`````
